@@ -34,6 +34,6 @@ In programming, model-view-controller (MVC) is an architectural design pattern t
 - Client-Side: Changes to the UI don't necessarily impact how data is processed on the server.
 
 # What MVC looks like
-
+![MVC Chart](https://github.com/jojiShiotsuki/MVC-Lecture/blob/main/MVCImage.gif)
 # Summary
 - In summary, the separation of concerns, particularly in the context of MVC, helps create maintainable, modular, and scalable software by organizing code based on its purpose and functionality, both on the server-side and the client-side.
